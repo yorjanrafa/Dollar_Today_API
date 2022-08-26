@@ -1,6 +1,3 @@
-import { data } from "./data.js";
-
-console.log(data);
 let trend = document.querySelector("#trend");
 let price = document.querySelector("#price");
 
